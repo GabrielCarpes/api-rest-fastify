@@ -1,6 +1,7 @@
 node_modules
 .DS_Store
 db/app.db
+db/test.db
 .env
 .env.test
 .vscode
